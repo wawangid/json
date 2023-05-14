@@ -3,11 +3,12 @@
     {
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
-      "admob_rewardid": "ca-app-pub-3940256099942544/5224354917", 
-      "interval": 5,
+      "ADMOB_INTER": "ca-app-pub-3940256099942544/1033173712",
+      "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+      "ADMOB_OPENADS": "ca-app-pub-3940256099942544/3419835294",
+      "ADMOB_NATIVE": "ca-app-pub-3940256099942544/5224354917", 
+      "INTERVAL": 5,
+      "INTERVAL_NATIVE" 5,
       "coin_reward": 0
     }
   ],
